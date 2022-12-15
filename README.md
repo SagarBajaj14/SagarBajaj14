@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **new developments and emerging technologies in the field of AI and cloud.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SagarBajaj14/Learning_projects](https://github.com/SagarBajaj14/Learning_projects)
+- 👨‍💻 All of my ML learning projects are available at [https://github.com/SagarBajaj14/ml-practice](https://github.com/SagarBajaj14/ml-practice)
 
 - 📫 How to reach me **sagar.b2@ahduni.edu.in**
 
